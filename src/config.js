@@ -1,0 +1,2 @@
+export const CONFIG={playerSpeed:7.2,acceleration:18,steering:8.5,airSteering:4.5,collisionRadius:.75,plank:{w:1.25,h:.18,d:.42},camera:{distance:11,height:9,lookHeight:1.4},colors:{blue:0x19aaf0,orange:0xff7b20,green:0x36dc45,purple:0xb43ce8,red:0xff3a2f},plankColors:{blue:0x20baf7,orange:0xff8424,green:0x4ce44e,purple:0xc653ef,red:0xff4a42},maxVisibleStack:18};
+export const TEAMS=['blue','orange','green','purple','red'];
